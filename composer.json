@@ -1,15 +1,15 @@
 {
-  "name": "zgabievi/laravel-promocodes",
+  "name": "abdelrhman3essa/laravel-promocodes",
   "description": ":package_description",
   "license": "MIT",
   "authors": [
     {
-      "name": "Zura Gabievi",
-      "email": "zura.gabievi@email.com",
-      "homepage": "https://github.com/zgabievi"
+      "name": "abdelrhman 3essa",
+      "email": "abdelrahman.mohamed@99.zone",
+      "homepage": "https://github.com/abdelrhman3essa"
     }
   ],
-  "homepage": "https://github.com/zgabievi/laravel-promocodes",
+  "homepage": "https://github.com/abdelrhman3essa/laravel-promocodes",
   "keywords": [
     "Laravel",
     "Promocodes"
